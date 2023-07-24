@@ -1,0 +1,6 @@
+data/
+img/
+checkpoint_ssd300.pth.tar
+*.json
+run.ipynb
+
